@@ -26,20 +26,6 @@ The model uses the following inputs:
 * Property Area
 * Applicant Income
 
-## 📷 Project Screenshots
-
-### Home Page
-
-![Home Page](images/home.png)
-
-### Loan Approved Prediction
-
-![Loan Approved](images/approved.png)
-
-### Loan Rejected Prediction
-
-![Loan Rejected](images/rejected.png)
-
 ## ▶️ How to Run
 
 Install dependencies:
@@ -84,3 +70,4 @@ Contributions, suggestions, and improvements are welcome.
 ## ⭐ Support
 
 If you found this project useful, please give this repository a star.
+
